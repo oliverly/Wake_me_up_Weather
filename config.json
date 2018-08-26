@@ -1,0 +1,30 @@
+{
+	"clear-day": [
+		{
+			"when_to_run": "sometimes",
+			"from_month": "January",
+			"from_day": 01,
+			"from_month": "Febuary",
+			"from_day": 21,
+			"filename": "good_day_sunshine.mp3"
+		},
+		{
+			"when_to_run": "always",
+			"filename": "here_comes_the_sun.mp3"
+		}
+	],
+	"snow": [
+		{
+			"when_to_run": "sometimes",
+			"from_month": "November",
+			"from_day": 26,
+			"from_month": "December",
+			"from_day": 31,
+			"filename": ["white_christmas.mp3", "baby_its_cold_outside.mp3"]
+		},
+		{
+			"when_to_run": "always",
+			"filename": "here_comes_the_sun.mp3"
+		}
+	]
+}

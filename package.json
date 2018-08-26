@@ -1,0 +1,25 @@
+{
+  "name": "wake_me_up_weather",
+  "version": "1.0.0",
+  "description": "A simple application to check the weather and play a corresponding song according to the conditions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverly/Wake_me_up_Weather.git"
+  },
+  "author": "Oliver Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverly/Wake_me_up_Weather/issues"
+  },
+  "homepage": "https://github.com/oliverly/Wake_me_up_Weather#readme",
+  "dependencies": {
+    "chromecasts": "^1.9.1",
+    "express": "^4.16.3",
+    "get-the-weather": "^1.5.2",
+    "google-home-player": "^1.0.1"
+  }
+}
